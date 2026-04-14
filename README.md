@@ -60,8 +60,8 @@
 
 Результаты на train получились следующие:
 
-![https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_train_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_train_losses.png)
+![https://github.com/drema3-4/NLP-Homework-2-semester/blob/0b01ea90201bd35ff7c81f633ae80d120dd49ac8/homework%202/results/models_train_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/blob/0b01ea90201bd35ff7c81f633ae80d120dd49ac8/homework%202/results/models_train_losses.png)
 
 Результаты на test получились следующие:
 
-![https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_test_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_test_losses.png)
+![https://github.com/drema3-4/NLP-Homework-2-semester/blob/0b01ea90201bd35ff7c81f633ae80d120dd49ac8/homework%202/results/models_test_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/blob/0b01ea90201bd35ff7c81f633ae80d120dd49ac8/homework%202/results/models_test_losses.png)
