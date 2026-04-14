@@ -49,4 +49,4 @@
 В первом ДЗ я самостоятельно реализовал GPT с pre-norm (архитектура соответствует архитектуре, представленной в ноутбуке преподавателя).
 
 Результаты обучения следующие:
-![https://github.com/drema3-4/NLP-Homework-2-semester/homework-1/results/base_model_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/homework-1/results/base_model_losses.png)
+![https://github.com/drema3-4/NLP-Homework-2-semester/blob/69b75069f44444255660e2c22ed66a74ef880206/homework%201/results/base_model_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/blob/69b75069f44444255660e2c22ed66a74ef880206/homework%201/results/base_model_losses.png)
