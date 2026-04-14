@@ -49,4 +49,19 @@
 В первом ДЗ я самостоятельно реализовал GPT с pre-norm (архитектура соответствует архитектуре, представленной в ноутбуке преподавателя).
 
 Результаты обучения следующие:
+
 ![https://github.com/drema3-4/NLP-Homework-2-semester/blob/69b75069f44444255660e2c22ed66a74ef880206/homework%201/results/base_model_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/blob/69b75069f44444255660e2c22ed66a74ef880206/homework%201/results/base_model_losses.png)
+# Homework 2
+Во втором дз я реализовал следующие версии GPT:
+1. post-norm версия;
+2. pre-norm версия;
+3. pre-norm версия с RoPe embeddings;
+4. pre-norm версия с RoPe embeddings и MoE.
+
+Результаты на train получились следующие:
+
+![https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_train_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_train_losses.png)
+
+Результаты на test получились следующие:
+
+![https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_test_losses.png](https://github.com/drema3-4/NLP-Homework-2-semester/homework 2/results/models_test_losses.png)
